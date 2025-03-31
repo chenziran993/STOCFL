@@ -1,0 +1,4 @@
+fedlab==1.2.1
+torch
+cvxopt
+spacy
